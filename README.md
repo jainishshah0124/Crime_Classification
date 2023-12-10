@@ -3,7 +3,7 @@
 
 
 
-![png](Poster1.png)
+![png](Images/Poster1.png)
 
 
 
@@ -421,7 +421,7 @@ model_cv_nb.save("/Users/csuftitan/Documents/Spark/model_cv_nb1")
 ```
 
 Output looks like this:
-![png](snap_2.png)
+![png](Images/snap_2.png)
 
 ## 8. __Dataset Analysis:__
 * __Plotting the top 20 crime categories
@@ -453,7 +453,7 @@ plt.show()
 ```
 
 Output looks like this:
-![png](chart_1.png)
+![png](Images/chart_1.png)
 
 * __Plotting the Least 20 crime categories
 
@@ -484,7 +484,7 @@ plt.show()
 ```
 
 Output looks like this:
-![png](chart_2.png)
+![png](Images/chart_2.png)
 
 * __Plotting Crime counts on each days
 
@@ -514,11 +514,11 @@ plt.show()
 ```
 
 Output looks like this:
-![png](chart_3.png)
+![png](Images/chart_3.png)
 
 
 ## __9. Deploy the Model__
 We will use Flask. This is our flask code, check [application.py.](https://github.com/jainishshah0124/Crime_Classification/blob/main/application.py)
 
 
-![jpeg](Flask.png)
+![png](Images/Flask.png)
